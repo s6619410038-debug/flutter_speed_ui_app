@@ -1,4 +1,4 @@
-# flutter_speed_ui_app2
+# flutter_speed_ui_app
 
 A new Flutter project.
 
